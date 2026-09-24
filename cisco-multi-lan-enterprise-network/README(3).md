@@ -64,6 +64,10 @@ For all we use username: Khaled(#) and for email: (Khaled(#))
 5. Open the Web Browser on any PC and navigate to `www.lab.local`.
 6. Open the Email client on any PC and log in using the credentials above.
 
+##Screenshot
+<img width="1156" height="552" alt="image" src="https://github.com/user-attachments/assets/2bb14cd8-7851-45df-90df-aaa05826da52" />
+
+
 ## 📄 License
 This project is for educational purposes. Feel free to use it as a reference for your own Cisco networking studies.
 
