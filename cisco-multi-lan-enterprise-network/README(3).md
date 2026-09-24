@@ -42,6 +42,7 @@ All networks use a `/24` subnet mask (255.255.255.0) for simplicity.
 
 ## 👤 User Credentials (Placeholders)
 *These credentials are used for Email Client configuration and basic lab access.*
+For all we use username: Khaled(#) and for email: (Khaled(#))
 
 | User | Username | Password | Email Address |
 | :--- | :--- | :--- | :--- |
